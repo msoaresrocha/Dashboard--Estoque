@@ -51,7 +51,7 @@ TotalVendas = -CALCULATE(
 ```
 
 The relationship with these two tables was linked by "ID of the Product"
-https://github.com/msoaresrocha/Dashboard--Estoque/blob/main/Dashboard%20Estoque/Relationship.jpg
+![This is a alt text.](https://github.com/msoaresrocha/Dashboard--Estoque/blob/main/Dashboard%20Estoque/Relationship.jpg)
 
 \
 \
