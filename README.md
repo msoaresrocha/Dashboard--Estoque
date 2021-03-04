@@ -49,7 +49,9 @@ TotalVendas = -CALCULATE(
      'Movimentacoes Estoque'[Tipo]="Saída"
 )
 ```
-
+\
+\
+\
 The relationship with these two tables was linked by "ID of the Product"
 ![This is a alt text.](https://github.com/msoaresrocha/Dashboard--Estoque/blob/main/Dashboard%20Estoque/Relationship.jpg)
 
